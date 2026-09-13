@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "Lanttu jr.",
+    "password": "Turboahdin1",
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Lanttusmp.aternos.me",
+    "port": 25245,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 999,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Just keeping the server active",
+        "Follow Lanttugaming channel in twitch!",
         "I like to play Minecraft!"
       ]
     },
