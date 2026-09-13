@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Lanttu jr.",
-    "password": "Turboahdin1",
+    "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "Lanttusmp.aternos.me",
+    "ip": "Lanttusmp.aternos.me25245",
     "port": 25245,
     "version": "26.2",
     "try-creative": false
